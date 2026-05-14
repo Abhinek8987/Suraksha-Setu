@@ -82,11 +82,14 @@ Sensors->>SafeCircle: Dispatch Stage 2: Audio Evidence attached via Email
 ## 🖼️ Application Screenshots
 
 <div align="center">
-  <img src="Screenshots/1000760320.jpg" width="200" />
-  <img src="Screenshots/1000760321.jpg" width="200" />
-  <img src="Screenshots/1000760322.png" width="200" />
-  <img src="Screenshots/1000760323.jpg" width="200" />
-  <img src="Screenshots/1000760324.jpg" width="200" />
+  <table>
+    <tr>
+      <td align="center"><img src="Screenshots/1000760320.jpg" width="220" /><br/><b>Home Screen</b></td>
+      <td align="center"><img src="Screenshots/1000760321.jpg" width="220" /><br/><b>Alert History</b></td>
+      <td align="center"><img src="Screenshots/1000760323.jpg" width="220" /><br/><b>Live Police Maps</b></td>
+      <td align="center"><img src="Screenshots/1000760324.jpg" width="220" /><br/><b>Settings</b></td>
+    </tr>
+  </table>
 </div>
 
 ---
