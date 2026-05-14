@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\list_item_police.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\list_item_police.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\list_item_contact.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\list_item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_volunteer_registration.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_volunteer_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\list_item_white_text.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\list_item_white_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_police_help.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_police_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_volunteer.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_volunteer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_emergency.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_countdown.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_countdown.xml"
+    },
+    {
+        "merged": "com.example.surakshasetu.app-mergeDebugResources-37:/layout/list_item_police.xml",
+        "source": "com.example.surakshasetu.app-main-40:/layout/list_item_police.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_safe_circle.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_safe_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_alert_history.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_alert_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-mergeDebugResources-37:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\ec5cd\\.gradle\\daemon\\8.4\\com.example.surakshasetu.app-main-40:\\layout\\activity_registration.xml"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="redDark">#9A0007</color>
+    <color name="redLight">#FF6659</color>
+    <color name="redPrimary">#D32F2F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Suraksha-Setu</string>
+    <style name="Theme.SurakshaSetu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/redPrimary</item>
+        <item name="colorPrimaryVariant">@color/redDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/redLight</item>
+        <item name="colorSecondaryVariant">@color/redPrimary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
